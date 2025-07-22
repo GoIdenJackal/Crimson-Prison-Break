@@ -36,7 +36,7 @@
 
 ## ⚙️ Configuration
 
-- The plugin requires no additional setup — it activates automatically in Gauntlet map region upon equipping one or more perfected weapons.
+- The plugin requires no additional setup — it activates automatically in the CG/Regular Gauntlet map region after equipping one or more perfected weapons.
 
 ---
 
